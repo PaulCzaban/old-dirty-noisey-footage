@@ -38,5 +38,12 @@ A copy of my avs script is located [here](https://github.com/PaulCzaban/old-dirt
 > Before and after debris cleaning.
 
 
+### Removing projector noise
 
+You'll notice that this source video is a recording of a projection rather than a telecine scan. This technique has introduced a lot of noise around the edges of the film and a bright spot in the middle.
+Fortunately there is a segment during the recording where a white field is visible. I took and average of the white field to yeild correction image we could devide by the source frames.
+
+**Average projector noise**
+![](https://github.com/PaulCzaban/old-dirty-noisey-footage/blob/master/docs/2_Projector_Average.png?raw=true)
+> Average projector noise before and after smoothing.
 
