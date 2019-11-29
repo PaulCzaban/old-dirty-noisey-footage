@@ -34,7 +34,7 @@ I modifed the original script to import and export frames in PNG format. An anal
 A copy of my avs script is located [here](https://github.com/PaulCzaban/old-dirty-noisey-footage/tree/master/scripts/avisynth_cleaning.avs).
 
 **Cleaning Result**
-![](https://github.com/PaulCzaban/old-dirty-noisey-footage/tree/master/docs/1_Clean_Compare.png)
+![](https://github.com/PaulCzaban/old-dirty-noisey-footage/blob/master/docs/1_Clean_Compare.png?raw=true)
 > Before and after debris cleaning.
 
 
