@@ -34,6 +34,7 @@ I modifed the original script to import and export frames in PNG format. An anal
 A copy of my avs script is located [here](https://github.com/PaulCzaban/old-dirty-noisey-footage/tree/master/scripts/avisynth_cleaning.avs).
 
 **Cleaning Result**
+
 ![](https://github.com/PaulCzaban/old-dirty-noisey-footage/blob/master/docs/1_Clean_Compare.png?raw=true)
 > Before and after debris cleaning.
 
@@ -44,6 +45,7 @@ You'll notice that this source video is a recording of a projection rather than 
 Fortunately there is a segment during the recording where a white field is visible. I took and average of the white field to yeild correction image we could devide by the source frames.
 
 **Average projector noise**
+
 ![](https://github.com/PaulCzaban/old-dirty-noisey-footage/blob/master/docs/2_Projector_Average.png?raw=true)
 > Average projector noise before and after smoothing.
 
