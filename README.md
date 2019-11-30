@@ -40,3 +40,7 @@ Fortunately there is a segment during the recording where a white field is visib
 ![](https://github.com/PaulCzaban/old-dirty-noisey-footage/blob/master/docs/2_Projector_Average.png?raw=true)
 > Average projector noise before and after smoothing.
 
+![](https://github.com/PaulCzaban/old-dirty-noisey-footage/blob/master/docs/3_Projector_field_removal.png?raw=true)
+> Before and after applying projector noise correction.
+
+
